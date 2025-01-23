@@ -65,5 +65,4 @@ To explore the analysis:
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
 
-## License
-This project is licensed under the MIT License.
+
