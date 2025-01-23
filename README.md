@@ -48,18 +48,22 @@ To explore the analysis:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Lucky-Nahar/shopping-trend-analysis.git
-2.Navigate to the repository:
-bash
-  `cd shopping-trend-analysis`
-3.Install the required dependencies:
-bash
-  `pip install -r requirements.txt`
-4.Open the Jupyter Notebook:
-bash
-  `jupyter notebook Shopping_Trend_Analysis.ipynb`
+   ```
+2. **Navigate to the repository**:
+```bash
+  cd shopping-trend-analysis
+```
+3. **Install the required dependencies**:
+```bash
+  pip install -r requirements.txt
+```
+4. **Open the Jupyter Notebook**:
+```bash
+  jupyter notebook Shopping_Trend_Analysis.ipynb
+```
 
-##Contributing
+## Contributing
 Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
 
-##License
+## License
 This project is licensed under the MIT License.
